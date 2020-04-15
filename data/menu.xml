@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kids-menu>
+	<food>
+		<category id="1">Tasty Bites</category>
+		<title>Pumpkin &amp; Fetta Frittata</title>
+		<label>lower in fat</label>
+		<vegetarian>true</vegetarian>
+		<cost>19.00</cost>
+	</food>
+	<food>
+		<category id="2">Tasty Bites</category>
+		<title>Lentil &amp; Pumpkin Soup</title>
+		<label>Fresh Vegetables</label>
+		<vegetarian>true</vegetarian>
+		<cost>6.00</cost>
+	</food>	
+	<food>
+		<category id="3">Tasty Bites</category>
+		<title>Beef Burger</title>
+		<label>100% Lean Beef</label>
+		<vegetarian>false</vegetarian>
+		<cost>12.00</cost>
+	</food>
+	<food>
+		<category id="4">Tasty Bites</category>
+		<title>Mexican Tortilla Triangles</title>
+		<label>Fresh Avocado</label>
+		<vegetarian>true</vegetarian>
+		<cost>10.00</cost>
+	</food>
+</kids-menu>
