@@ -1,0 +1,23 @@
+table {
+    border: thin black solid;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: thin black solid;
+}
+
+.number {
+    text-align: right;
+    padding-right: 5px;
+    ;
+}
+
+.currency {
+    float: left;
+}
+
+input[type='number'] {
+    text-align: right;
+}

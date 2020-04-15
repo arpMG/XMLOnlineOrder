@@ -1,0 +1,23 @@
+Online Ordering System
+
+* HTML form submission
+* HTML table layouts
+* PHP web form processing
+* PHP using Classes
+* PHP XML file reading
+
+The System
+An order system where the menu items come from an XML file
+
+1. Input page
+ - HTML form using arrays to capture data
+ - reads XML
+ - uses a PHP Class to manage the XML data file
+ - uses food item title and costs to display for ordering
+
+
+2. Output page
+ - reads XML
+ - uses XML data to get item costs to calculate order and output order for confirmation
+ - uses a PHP Class to manage the XML data file
+ 
